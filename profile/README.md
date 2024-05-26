@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="https://messengerbotteam.github.io/images/logo.png">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/msgbot-logo.png">
   <br><br>
   <picture>
     <source width="300" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-dark.svg">
@@ -19,10 +19,17 @@
 [레퍼런스](https://violetxf.gitbook.io/messengerbot)
 
 ## 둘러보기
-[디스코드](https://discord.gg/sQU9BUj) [카카오톡](https://open.kakao.com/o/gMTtmNlc) [깃헙 페이지](https://messengerbotteam.github.io/)
+[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/discord-icon.svg">][discord-url]|[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/kakaotalk-logo.svg">][kakaotalk-url]|[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/naver-cafe.webp">][naver-cafe-url]|[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/msgbot-logo.png">][github-page-url]
+:---:|:---:|:---:|:---:
+[디스코드][discord-url]|[카카오톡][kakaotalk-url]|[네이버 카페][naver-cafe-url]|[깃헙 페이지][github-page-url]
 
 ## 개인 정보 정책
 [이곳](https://messengerbotteam.github.io/posts/privacy-policy.html)에서 확인해주세요!
 
 ## 다운로드
 [<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="30%">](https://play.google.com/store/apps/details?id=com.xfl.msgbot)
+
+[discord-url]: https://discord.gg/sQU9BUj (공식 디스코드)
+[kakaotalk-url]: https://open.kakao.com/o/gMTtmNlc (공식 카카오톡 오픈채팅)
+[naver-cafe-url]: https://cafe.naver.com/msgbot (공식 네이버 카페)
+[github-page-url]: https://messengerbotteam.github.io/
