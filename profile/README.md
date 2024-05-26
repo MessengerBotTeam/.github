@@ -19,7 +19,7 @@
 [레퍼런스](https://violetxf.gitbook.io/messengerbot)
 
 ## 둘러보기
-[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/discord-icon.svg">][discord-url]|[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/kakaotalk-logo.svg">][kakaotalk-url]|[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/naver-cafe.webp">][naver-cafe-url]|[<img width="100" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/msgbot-logo.png">][github-page-url]
+[<img width="70" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/discord-icon.svg">][discord-url]|[<img width="70" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/kakaotalk-logo.svg">][kakaotalk-url]|[<img width="70" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/naver-cafe.webp">][naver-cafe-url]|[<img width="70" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/msgbot-logo.png">][github-page-url]
 :---:|:---:|:---:|:---:
 [디스코드][discord-url]|[카카오톡][kakaotalk-url]|[네이버 카페][naver-cafe-url]|[깃헙 페이지][github-page-url]
 
