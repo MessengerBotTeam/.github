@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="250" height="250" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/msgbot-logo.png">
+  <img width="220" height="220" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/msgbot-logo.png">
   <br><br>
   <picture>
-    <source width="300" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-dark.svg">
-    <img width="300" alt="메신저 봇 텍스트" src="[./title-light.svg](https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-light.svg)">
+    <source width="250" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-dark.svg">
+    <img width="250" alt="메신저 봇 텍스트" src="[./title-light.svg](https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-light.svg)">
   </picture>
   <br><br>
 </p>
