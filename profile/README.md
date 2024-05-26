@@ -3,8 +3,8 @@
   <img width="250" height="250" src="https://messengerbotteam.github.io/images/logo.png">
   <br><br>
   <picture>
-    <source width="300" media="(prefers-color-scheme: dark)" srcset="./title-dark.svg">
-    <img width="300" alt="메신저 봇 텍스트" src="./title-light.svg">
+    <source width="300" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/title-dark.svg">
+    <img width="300" alt="메신저 봇 텍스트" src="[./title-light.svg](https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/title-light.svg)">
   </picture>
   <br><br>
   <br><br>
