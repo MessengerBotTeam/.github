@@ -3,7 +3,7 @@
   <br><br>
   <picture>
     <source width="250" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-dark.svg">
-    <img width="250" alt="메신저 봇 텍스트" src="[./title-light.svg](https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-light.svg)">
+    <img width="250" alt="메신저 봇 텍스트" src="https://raw.githubusercontent.com/MessengerBotTeam/.github/main/profile/images/title-light.svg">
   </picture>
   <br><br>
 </p>
